@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/danfoss_webapp/static/css/main.d5db4bea.css",
-    "main.js": "/danfoss_webapp/static/js/main.cabd21b1.js",
-    "static/media/profile.jpg": "/danfoss_webapp/static/media/profile.733a3b590ec0512c4698.jpg",
+    "main.css": "/danfoss_webapp/static/css/main.348a61ff.css",
+    "main.js": "/danfoss_webapp/static/js/main.cc27baff.js",
     "static/media/code.png": "/danfoss_webapp/static/media/code.90cd0c3ddc04a31e310e.png",
-    "static/media/resume.pdf": "/danfoss_webapp/static/media/resume.f9ea76e2b95cc4470bdd.pdf",
-    "static/media/danfoss_background.png": "/danfoss_webapp/static/media/danfoss_background.21e9857549c088f38996.png",
-    "static/media/application.pdf": "/danfoss_webapp/static/media/application.bf105749fb6549a0cea5.pdf",
+    "static/media/resume.pdf": "/danfoss_webapp/static/media/resume.eef4e37201230fe7ec5b.pdf",
+    "static/media/profile.JPG": "/danfoss_webapp/static/media/profile.2800bd9fe9d8e7aef59f.JPG",
+    "static/media/danfoss_background.png": "/danfoss_webapp/static/media/danfoss_background.218f1a7110af6bdd3b40.png",
+    "static/media/application.pdf": "/danfoss_webapp/static/media/application.22b9d9f4e9e04441905e.pdf",
     "static/media/brick.png": "/danfoss_webapp/static/media/brick.88d19be35b546e0e331b.png",
     "static/media/bow.png": "/danfoss_webapp/static/media/bow.a9a928d7d76bcbb3ce83.png",
     "static/media/corner.png": "/danfoss_webapp/static/media/corner.46b69c5901d2fc9ba3a8.png",
     "static/media/peg.png": "/danfoss_webapp/static/media/peg.b7bda416c00d8cc90e74.png",
     "static/media/loader.svg": "/danfoss_webapp/static/media/loader.f617fc969ee3e10edf9f6dac73a556c8.svg",
     "index.html": "/danfoss_webapp/index.html",
-    "main.d5db4bea.css.map": "/danfoss_webapp/static/css/main.d5db4bea.css.map",
-    "main.cabd21b1.js.map": "/danfoss_webapp/static/js/main.cabd21b1.js.map"
+    "main.348a61ff.css.map": "/danfoss_webapp/static/css/main.348a61ff.css.map",
+    "main.cc27baff.js.map": "/danfoss_webapp/static/js/main.cc27baff.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5db4bea.css",
-    "static/js/main.cabd21b1.js"
+    "static/css/main.348a61ff.css",
+    "static/js/main.cc27baff.js"
   ]
 }

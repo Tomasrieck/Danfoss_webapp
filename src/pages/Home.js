@@ -2,22 +2,22 @@ import React from "react";
 import "./css/Home.css";
 import resume from "../assets/resume.pdf";
 import application from "../assets/application.pdf";
-import profile_img from "../assets/profile.jpg";
+import profile_img from "../assets/profile.JPG";
 import bgImg from "../assets/danfoss_background.png";
 import { Link } from "react-router-dom";
 
 function Home() {
   const link = {
     name: "AI",
-    color: "rgb(255, 230, 0",
-    borderColor: "gold",
+    color: "red",
+    borderColor: "rgb(175, 0, 0)",
     link: "code",
   };
   const pdfs = [
     {
       name: "Resume",
-      color: "deepskyblue",
-      borderColor: "rgb(0, 130, 185)",
+      color: "red",
+      borderColor: "rgb(175, 0, 0)",
       link: resume,
     },
     {
@@ -60,11 +60,11 @@ function Home() {
               <div className="text">
                 <h1>Welcome 👋</h1>
                 <h2>
-                  To showcase my interest in a job opportunity at Danfoss, I
-                  have built an AI! The AI is able to recognize LEGO bricks when
+                  To show my interest in a job opportunity at Danfoss, I have
+                  built an AI! The AI is able to recognize LEGO bricks when
                   given an image as input. <br />
                   Click the button below to learn more. You can also view my
-                  cover letter and my resume.
+                  cover letter and resume.
                 </h2>
               </div>
             </div>
